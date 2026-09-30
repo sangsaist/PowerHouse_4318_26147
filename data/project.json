@@ -1,0 +1,60 @@
+{
+    "team": "PowerHouse_4318",
+
+    "project": "SigIQ",
+
+    "event": "Smart India Hackathon 2026",
+
+    "problemStatement": "PS 26147",
+
+    "description": "Signal analysis, modulation assessment and information recovery from raw IQ and WAV recordings.",
+
+    "links": {
+
+        "github": "YOUR_GITHUB_URL",
+
+        "documentation": "YOUR_DOCUMENTATION_URL",
+
+        "youtube": "YOUR_YOUTUBE_URL"
+
+    },
+
+    "screenshots": [
+
+        {
+            "title": "Signal Isolation",
+
+            "description": "Isolates the active signal and presents its waveform and spectral view.",
+
+            "image": "Screenshots/signal_isolation.png"
+        },
+
+
+        {
+            "title": "Evidence Extraction",
+
+            "description": "Extracts transmission parameters and measures the signal spectrum.",
+
+            "image": "Screenshots/evidence_extraction.png"
+        },
+
+
+        {
+            "title": "Hypothesis & Demodulation",
+
+            "description": "Scores modulation candidates and evaluates the best-supported hypothesis.",
+
+            "image": "Screenshots/hypothesis_demodulation.png"
+        },
+
+
+        {
+            "title": "Recovery Information",
+
+            "description": "Presents decoding, FEC and recovered information with supporting evidence.",
+
+            "image": "Screenshots/recovery_information.png"
+        }
+
+    ]
+}
