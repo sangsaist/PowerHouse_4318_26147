@@ -13,7 +13,10 @@ async function loadProject() {
 
         const response =
             await fetch(
-                "data/project.json"
+                "data/project.json",
+                {
+                    cache: "no-store"
+                }
             );
 
 
