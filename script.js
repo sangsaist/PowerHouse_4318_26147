@@ -105,6 +105,9 @@ async function loadProject() {
             documentation:
                 "Documentation",
 
+            software:
+                "Software",
+
             youtube:
                 "Project Pitch"
 
